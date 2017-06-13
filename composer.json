@@ -1,0 +1,16 @@
+{
+    "name": "theoduin/app",
+    "description" : "Theoduin Application skeleton",
+    "keywords" : ["php", "theoduin", "app"],
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "David Szigecsan (Sigee)",
+            "email": "sigee15@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    }
+}
